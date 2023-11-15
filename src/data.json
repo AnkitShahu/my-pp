@@ -1,0 +1,18 @@
+[
+      {
+        "project": "Google, 8th Avenue",
+        "description": ""
+      },
+      {
+        "name": "Microsoft, Times Square",
+        "location": [40.7565323,-73.9904037]
+      },
+      {
+        "name": "Tesla, Washington Street",
+        "location": [40.7411595,-74.0097167]    
+      },
+      {
+        "name": "Amazon New York",
+        "location": [40.7532822,-74.0010696]
+      }
+]
